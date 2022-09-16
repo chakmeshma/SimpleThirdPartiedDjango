@@ -1,0 +1,1 @@
+- Add System EnvVariable PYTHONHOME = C:/Users/chakm/AppData/Local/Programs/Python/Python310
